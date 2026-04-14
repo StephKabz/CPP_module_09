@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   PmergeMe.hpp                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kingstephane <kingstephane@student.42.f    +#+  +:+       +#+        */
+/*   By: stkabang <stkabang@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/02 14:38:05 by kingstephan       #+#    #+#             */
-/*   Updated: 2026/04/13 17:36:42 by kingstephan      ###   ########.fr       */
+/*   Updated: 2026/04/14 12:17:38 by stkabang         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,6 @@
 
 class PmergeMe
 {
-	private : 
 	public :
 		PmergeMe();
 		PmergeMe(const PmergeMe &other);
